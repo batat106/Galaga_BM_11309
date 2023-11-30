@@ -1,0 +1,7 @@
+C:\Users\bulat-laptop\RiderProjects\Galaga\Galaga\bin\Debug\Galaga.exe
+C:\Users\bulat-laptop\RiderProjects\Galaga\Galaga\bin\Debug\Galaga.pdb
+C:\Users\bulat-laptop\RiderProjects\Galaga\Galaga\obj\Debug\Galaga.csproj.AssemblyReference.cache
+C:\Users\bulat-laptop\RiderProjects\Galaga\Galaga\obj\Debug\Galaga.csproj.SuggestedBindingRedirects.cache
+C:\Users\bulat-laptop\RiderProjects\Galaga\Galaga\obj\Debug\Galaga.csproj.CoreCompileInputs.cache
+C:\Users\bulat-laptop\RiderProjects\Galaga\Galaga\obj\Debug\Galaga.exe
+C:\Users\bulat-laptop\RiderProjects\Galaga\Galaga\obj\Debug\Galaga.pdb
